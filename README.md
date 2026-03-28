@@ -1,6 +1,6 @@
 # 🍰 F-Slice Engine Project File
 
-![F-Slice Engine Banner](https://example.com/image_placeholder.png) 
+![F-Slice Engine Banner](docs/img/BG.png) 
 > *"ITS FUNNY!"* — HOMELESS GUY I FOUND ON THE STREET ONCE
 
 ---
