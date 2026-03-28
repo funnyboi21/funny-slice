@@ -77,7 +77,7 @@ The engine aims to utilize or restore unused assets found in original game files
 
 | Asset | Description |
 | :--- | :--- |
-| **Censored Tankmen** | Unused animations of a soldier getting shot during *Stress*. Used when "Naughtiness" is OFF. |
+| **Censored Tankmen** (docs/img/Tankmen_Goon_Shot_CENSORED.gif)| Unused animations of a soldier getting shot during *Stress*. Used when "Naughtiness" is OFF. |
 | **Pause Message** | An unused "Pause" graphic. |
 | **Mall Roof** | Unused animation of the mall roof with falling snow from the ERECT art files. |
 | **Hatch Assets** | Unused assets for Week 3 and its remixed variant. |
